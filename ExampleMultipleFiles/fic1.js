@@ -1,1 +1,1 @@
-﻿
+var x="fromGit1"﻿
